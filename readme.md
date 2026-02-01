@@ -15,7 +15,7 @@ The resume includes the following sections:
 - Contact Information
 - Footer with copyright
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 
