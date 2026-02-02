@@ -1,1 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
+:root {
+  background-color: color(
+    srgb 0.07058823529411765 0.09411764705882353 0.12156862745098039
+  );
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid red;
+}
+
+nav div {
+  display: flex;
+  align-items: center;
+  margin: 0px 120px;
+}
+.nav-links {
+  margin: 0px;
+}
+
+.nav-color {
+  color: white;
+}
+
+div a {
+  text-decoration: none;
+  margin: 0px 10px;
+  color: black;
+  font-size: 15px;
+}
+
+nav img {
+  width: 100px;
+  margin: 10px;
+  color: white;
+}
+
+.signup-btn {
+  padding: 10px 20px;
+  border-radius: 50px;
+}
